@@ -13,3 +13,5 @@ Port of the [Vesper VSC Theme](https://github.com/raunofreiberg/vesper/tree/main
 3. Open Theme Folder
 4. Copy the xaml file into it and apply
 ```
+
+P/S: I used Dank Mono for everything, but you can change to another font if you want. Its customizable in Flow Launcher :)
